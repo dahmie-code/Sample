@@ -11,6 +11,7 @@ namespace WinFormsApp1
         {
             label1.Text = "Hi Mr Jonathan, I like your determination and grit!";
             label2.Text = "Thank you Damilola!!! You are awesome in our class. Want to be as intelligent and witty like you.";
+            label3.Text = "I'm glad I met you and I'm able to collaborate with you!";
         }
     }
 }

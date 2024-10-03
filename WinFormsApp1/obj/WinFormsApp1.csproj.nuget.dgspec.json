@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyProjects\\Projects\\myProjects\\Sample\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\adero\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\MyProjects\\Projects\\myProjects\\Sample\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\adero\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyProjects\\Projects\\myProjects\\Sample\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\adero\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "C:\\MyProjects\\Projects\\myProjects\\Sample\\WinFormsApp1\\WinFormsApp1.csproj",
-        "packagesPath": "C:\\Users\\jojoj\\.nuget\\packages\\",
-        "outputPath": "C:\\MyProjects\\Projects\\myProjects\\Sample\\WinFormsApp1\\obj\\",
+        "projectPath": "C:\\Users\\adero\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\adero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adero\\Desktop\\WinFormsApp1\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jojoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\adero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
